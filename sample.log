@@ -1,0 +1,188 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex 2023.1.21)  21 JAN 2023 23:23
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/agustincastillo/Documents/Repositorios/mva/guideforauthors/sample
+(/Users/agustincastillo/Documents/Repositorios/mva/guideforauthors/sample.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-02-24> (./mva_style.cls
+Document Class: mva_style 2010/10/13 v1.0 MVA LaTeX class file
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/local/texlive/2022/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (./balance.sty
+Package: balance 1999/02/23 4.3 (PWD)
+\oldvsize=\dimen139
+)
+MVA Style File
+\@ctmp=\skip49
+\@figindent=\skip50
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen140
+\Gin@req@width=\dimen141
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-02-07 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count193
+\l__pdf_internal_box=\box50
+) (./sample.aux)
+\openout1 = `sample.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
+LaTeX Font Info:    ... okay on input line 12.
+ (/usr/local/texlive/2022/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count194
+\scratchdimen=\dimen142
+\scratchbox=\box51
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks17
+\MPscratchCnt=\count197
+\MPscratchDim=\dimen143
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks18
+) (/usr/local/texlive/2022/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (/usr/local/texlive/2022/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+
+LaTeX Font Warning: Font shape `OT1/cmr/b/n' in size <16> not available
+(Font)              size <17.28> substituted on input line 27.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 27.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 27.
+
+Underfull \hbox (badness 1436) in paragraph at lines 56--61
+\OT1/cmr/m/n/10 ma-tion (\OT1/cmr/m/it/10 e.g.\OT1/cmr/m/n/10 , your name, af-fil-i-a-tion, ad-dress,
+ []
+
+
+Underfull \hbox (badness 1990) in paragraph at lines 56--61
+\OT1/cmr/m/n/10 work in the third per-son (\OT1/cmr/m/it/10 e.g.\OT1/cmr/m/n/10 , \[17] found
+ []
+
+Package epstopdf Info: Source file: <fig1.eps>
+(epstopdf)                    date: 2021-01-11 11:30:18
+(epstopdf)                    size: 1470297 bytes
+(epstopdf)             Output file: <fig1-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-01-21 23:21:42
+(epstopdf)                    size: 83456 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig1-eps-converted-to.pdf fig1.eps>
+(epstopdf)             \includegraphics on input line 65.
+Package epstopdf Info: Output file is already uptodate.
+<fig1-eps-converted-to.pdf, id=1, 289.08pt x 192.72pt>
+File: fig1-eps-converted-to.pdf Graphic file (type pdf)
+<use fig1-eps-converted-to.pdf>
+Package pdftex.def Info: fig1-eps-converted-to.pdf  used on input line 65.
+(pdftex.def)             Requested size: 170.71652pt x 113.80966pt.
+
+Overfull \hbox (4.44443pt too wide) in paragraph at lines 67--67
+[]  [] 
+ []
+
+[1{/usr/local/texlive/2022/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+
+
+ <./fig1-eps-converted-to.pdf>]
+Overfull \hbox (4.44443pt too wide) in paragraph at lines 141--141
+[]  [] 
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 143.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 143.
+Package epstopdf Info: Source file: <fig2.eps>
+(epstopdf)                    date: 2021-01-11 11:30:18
+(epstopdf)                    size: 3117 bytes
+(epstopdf)             Output file: <fig2-eps-converted-to.pdf>
+(epstopdf)                    date: 2023-01-21 23:21:43
+(epstopdf)                    size: 2396 bytes
+(epstopdf)             Command: <repstopdf --outfile=fig2-eps-converted-to.pdf fig2.eps>
+(epstopdf)             \includegraphics on input line 163.
+Package epstopdf Info: Output file is already uptodate.
+<fig2-eps-converted-to.pdf, id=15, 227.85126pt x 171.64125pt>
+File: fig2-eps-converted-to.pdf Graphic file (type pdf)
+<use fig2-eps-converted-to.pdf>
+Package pdftex.def Info: fig2-eps-converted-to.pdf  used on input line 163.
+(pdftex.def)             Requested size: 113.30995pt x 85.35826pt.
+
+Underfull \hbox (badness 6078) in paragraph at lines 177--178
+[]\OT1/cmr/m/n/10 The ac-knowl-edg-ment sec-tion
+ []
+
+
+Underfull \hbox (badness 2253) in paragraph at lines 229--230
+[]\OT1/cmr/m/n/10 In the Doc-u-ment Prop-er-ties di-a-logue, se-lect
+ []
+
+[2 <./fig2-eps-converted-to.pdf>] (./sample.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 1.28pt have occurred.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 1370 strings out of 478268
+ 22832 string characters out of 5846347
+ 333907 words of memory out of 5000000
+ 19602 multiletter control sequences out of 15000+600000
+ 474559 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,9n,62p,354b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmb10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/local/texlive/2022/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt9.pfb>
+Output written on sample.pdf (2 pages, 213317 bytes).
+PDF statistics:
+ 61 PDF objects out of 1000 (max. 8388607)
+ 35 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+
